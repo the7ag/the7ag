@@ -7,9 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Mute motion**
-
-- 🌱 I’m currently learning **Embedded linux**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/the7ag](https://github.com/the7ag)
 
